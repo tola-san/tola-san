@@ -26,53 +26,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
----
 
-## 🚀 Featured Projects
-
-### 🛍️ SellFlow — Online Selling Management Platform
-A platform designed to help online sellers manage their business workflows.
-
-- **Focus:** Business solutions and practical product development
-- **Tech Stack:** Add your actual technologies
-- **Demo:** [View Live Demo](YOUR_DEMO_URL)
-- **Repository:** [View Source Code](YOUR_REPOSITORY_URL)
-
-### ⚙️ ASP.NET Core Web API
-A backend project demonstrating REST API development and software engineering practices.
-
-- Authentication and authorization
-- Input validation and error handling
-- Database integration and migrations
-- Unit and integration testing
-- API documentation
-
-[View Repository](YOUR_API_REPOSITORY_URL)
-
-### 🌐 Full-Stack Web Application
-A web application demonstrating frontend and backend integration.
-
-- React and TypeScript frontend
-- ASP.NET Core REST API
-- Database design and integration
-- Responsive user interface
-- Automated testing
-
-[View Repository](YOUR_FULLSTACK_REPOSITORY_URL)
-
----
-
-## 📊 GitHub Statistics
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SanTola&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanTola&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
 
 ## 🧠 Engineering Principles
 
