@@ -42,8 +42,8 @@
 ## 🤝 Connect With Me
 
 - GitHub: [SanTola](https://github.com/SanTola)
-- LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_URL)
-- Portfolio: [My Portfolio](YOUR_PORTFOLIO_URL)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/tola-san)
+- Portfolio: [My Portfolio](https://santola.vercel.app/)
 
 ---
 
