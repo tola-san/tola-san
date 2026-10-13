@@ -71,18 +71,6 @@ Building a platform to help online sellers manage their social commerce operatio
 
 ---
 
-## 📊 GitHub Overview
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SanTola&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="San Tola's GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanTola&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p>
