@@ -4,7 +4,7 @@
 
 💻 Building reliable web applications, REST APIs, and scalable software solutions.
 
-- 🔭 Currently building **SellFlow** — an online selling management platform
+- 🔭 Currently building and maintaining **Selltify** — an online social ecommece management platform
 - ⚙️ Backend: C#, ASP.NET Core, Node.js, PHP, Laravel
 - 🎨 Frontend: React, TypeScript, JavaScript
 - 🗄️ Database: SQL Server, MySQL
