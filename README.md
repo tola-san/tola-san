@@ -59,17 +59,7 @@ Building reliable web applications, scalable REST APIs, and maintainable softwar
 
 ---
 
-## 🚀 Featured Project
 
-### Selltify — Social E-commerce Management Platform
-
-Building a platform to help online sellers manage their social commerce operations more efficiently.
-
-- ⚙️ Reliable backend services and API development
-- 🧩 Maintainable application architecture
-- 📈 Improving online selling workflows and operational efficiency
-
----
 
 ## 🤝 Connect With Me
 
